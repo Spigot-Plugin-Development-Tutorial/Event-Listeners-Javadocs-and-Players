@@ -1,0 +1,4 @@
+name: Events
+version: ${project.version}
+main: me.kodysimpson.events.Events
+api-version: 1.17
